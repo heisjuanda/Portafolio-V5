@@ -204,7 +204,7 @@ const create = () => {
         const name = document.getElementById('namef').value;
         const email = document.getElementById('emailf').value;
         const message = document.getElementById('messagef').value;
-        const apiKey = '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'
+        const apiKey = 'Your ApiKey Here'
 
         const xhr = new XMLHttpRequest();
         xhr.open('POST', 'ApiKey Here', true);
