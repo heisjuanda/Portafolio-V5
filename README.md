@@ -22,10 +22,10 @@
  </tr>
    <tr>
   <td align="center" width="20%">
-    <img height=60px src="https://user-images.githubusercontent.com/63882053/228913763-000ec443-c276-4f89-bf2e-3495037d1423.png"> 
+    <img height=60px src="https://user-images.githubusercontent.com/63882053/228914507-8d19eb19-40aa-42dc-8568-d5ce92d3ac55.png"> 
   </td>
    <td align="center" width="20%">
-    <img height=60px src="https://user-images.githubusercontent.com/63882053/228914106-d6189937-b9b2-4a1b-b91c-dc958ebfcd1a.png"> 
+    <img height=60px src="https://user-images.githubusercontent.com/63882053/228914372-96264d4d-bac6-40dc-8879-4a09f0473627.png"> 
   </td>
  </tr>
 </tbody>
