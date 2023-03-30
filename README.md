@@ -6,7 +6,9 @@
 <tbody>
  <tr>
   <td align="center" width="20%">
-    <img height=60px src="https://user-images.githubusercontent.com/63882053/226981177-e522313d-50c1-4667-b0d6-94e521bec367.png"> 
+   <a href='https://developer.mozilla.org/es/docs/Learn/JavaScript' target='_blank'>
+        <img height=60px src="https://user-images.githubusercontent.com/63882053/226981177-e522313d-50c1-4667-b0d6-94e521bec367.png"> 
+   </a>
   </td>
    <td align="center" width="20%">
     <img height=60px src="https://user-images.githubusercontent.com/63882053/226982516-ce8cb328-729b-4b15-85be-f473fd8c5d96.png"> 
